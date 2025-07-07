@@ -1,0 +1,21 @@
+.name {
+height: 100vh;
+width: 100px;
+flex-direction: 1;
+padding: 100px;
+;
+}
+
+section {
+    
+}
+h1 {
+    height: auto;
+    width: autos;
+    font-size: 35px;
+}
+.name-inline {
+    font-size: 24%;
+
+
+}
